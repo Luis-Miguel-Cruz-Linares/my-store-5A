@@ -13,7 +13,7 @@ export class AppComponent {
     {
       id:'1',
       name: 'El mejor producto',
-      price: 565,
+      price: 865,
       image: './assets/images/toy.jpg'
     },
     {
